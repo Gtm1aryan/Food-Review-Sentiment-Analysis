@@ -1,0 +1,7 @@
+tensorflow == 2.12.0
+numpy == 1.23.5
+streamlit == 1.30.0
+joblib == 1.2.0
+nltk == 3.8.1
+regex == 2023.10.3
+scikit-learn == 1.3.2
