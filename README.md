@@ -1,2 +1,2 @@
 # Food-Review-Sentiment-Analysis
-Project on Deep learning 
+Project on Deep learning (NLP)
