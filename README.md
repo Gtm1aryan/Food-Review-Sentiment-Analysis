@@ -11,9 +11,8 @@ Food Review Sentiment Analysis is a natural language processing (NLP) project de
 - [Food Review Sentiment Analysis-LINK](https://huggingface.co/spaces/gtmaryan/food_review_sentiment)
 
 ## Taking a look inside
-![App demo image](https://github.com/Gtm1aryan/emotions-detector-app/blob/main/Capture.PNG)
-
-![App demo image](https://github.com/Gtm1aryan/emotions-detector-app/blob/main/Capture1.PNG)
+![App demo image](https://github.com/Gtm1aryan/Food-Review-Sentiment-Analysis/blob/main/demo1.PNG)
+![App demo image](https://github.com/Gtm1aryan/Food-Review-Sentiment-Analysis/blob/main/demo2.PNG)
 
 
 ## Browsers support 
